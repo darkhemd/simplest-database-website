@@ -24,7 +24,8 @@ $db->query("INSERT INTO konsole (Name, Preis, Marke, Art, Unterstuetzte_Medien, 
 Erscheinungsjahr, Vorgaenger, Nachfolger, Farbe) values ('$na', '$pr', '$ma', '$ar', '$me', 
 '$arch', '$res', '$rel', '$vor', '$nach', '$farbe')");
 
-
+sleep(1);
+header ( 'Location: admincenter.php' );
 
 
 ?>
