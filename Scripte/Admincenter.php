@@ -63,7 +63,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
     <input type="text" name="farbe">
     </p>
 
-//Button
+
 <p>
     <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Weiter</button>
     </p>
