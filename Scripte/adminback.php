@@ -25,7 +25,7 @@ Erscheinungsjahr, Vorgaenger, Nachfolger, Farbe) values ('$na', '$pr', '$ma', '$
 '$arch', '$res', '$rel', '$vor', '$nach', '$farbe')");
 
 sleep(1);
-header ( 'Location: admincenter.html' );
+header ( 'Location: http://localhost/projekt/admincenter.html' );
 
 
 ?>
